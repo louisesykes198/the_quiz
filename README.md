@@ -1,5 +1,5 @@
-# the_quiz
-quiz game 
+# The_Quiz
+Quiz Game 
 
 ## Description
 
@@ -24,39 +24,33 @@ you can Learn interesting facts, challenge yourself, and share the joy of Christ
 
 #### First Time Visitor Goals
 
-1. As an unfamiliar viewer, I want to quickly figure out the site's primary goal and discover more about the company.
+Explore the Game:
 
-![image](assets/images/learn-more-page.png)
-2. I want to be able to find material on the website with ease as a first-time visitor.
+1. Understand the concept and rules of the Christmas Quiz Game.
 
-![image](assets/images/navbar.png)
-3. I want to be able to mover around the site quickly and be able to get back to where I started.
+2. Get a feel for the festive theme and user-friendly design.
 
-![image](assets/images/open-navbar.png)
+3. Start the game and answer up to 10 questions to experience the full game.
 
-Back to top button.
+4. See the interactive elements like the score mascot animation moving up the board.
 
-![image](assets/images/back-button.png)
+5. Appreciate the festive theme and Christmas questions.
+
+6. Learn about multiplayer options or share results with friends and family.
+
+6. Complete the questions or a full round and enjoy the celebratory experience.
 
 #### Returning Visitor Goals
 
-1. As a Returning Visitor, I would like to know how to contact the organisation with any questions that I might have.
+1. Aim to beat their previous high score or achieve a perfect game.
 
-![image](assets/images/contact-page.png)
-
-2. As a Returning Visitor, I want to be able to find and use the socail media links.
-
-![image](assets/images/footer.png)
-
-3. As a Returning Visitor, I want to be able to find the information I am searching for.
-
-![image](assets/images/navbar-only.png)
+2. Share results and invite others to play.
 
 #### Frequent User Goals
 
-1. As a Frequent User, I want to see if there are any new information has been updated or added.
-2. As a Frequent User, I want to check if any site issues I might of had in the past have been corrected.
-3. As a Frequent User, I want to any questions I may have to be answered in a timely manner.
+1. Complete all categories and achieve the highest possible score.
+2. Challenge themselves with time limits.
+3. Use the game as one of their new holiday traditions.
 
 ### Design
 
