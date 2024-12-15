@@ -1,5 +1,5 @@
-# The_Quiz
-Quiz Game 
+# the_quiz
+quiz game 
 
 ## Description
 
